@@ -1,0 +1,56 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-attachment: fixed;
+}
+#formulario{
+    width: 320px;
+    padding: 10px;
+    background-color: rgba(255, 255, 255, 0.75);
+    box-shadow: 5px black;
+    margin: auto;
+    border-radius: 6px;
+    vertical-align: middle;
+    margin-top: 240px;
+}
+p{
+    font-size: 25pt;
+    text-align: center;
+    margin: 0;
+}
+.campo{
+    margin: auto;
+    width: 275px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+span{
+    font-size: 11pt;
+}
+.campos{
+    margin-left: 10px;
+    width: 200px;
+}
+a{
+    padding-left: 160px;
+    margin: 0;
+    float: right;
+    font-size: 10pt;
+    margin-right: 40px;
+    text-decoration: none;
+    color:rgba(206, 69, 0, 0.75)
+}
+#logar{
+    background-color: rgb(254, 89, 0);
+    padding: 15px 130px;
+    margin-left: 10px;
+    margin-top: 10px;
+    border-radius: 8px;
+    border: 1px solid rgb(173, 46, 0);
+    cursor: pointer;
+}
+img{
+    width: 100%;
+    background-attachment: fixed;
+    
+}
